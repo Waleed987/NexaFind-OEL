@@ -1,0 +1,13 @@
+{
+  "add-field": [
+    {"name":"name","type":"text_general","stored":true},
+    {"name":"description","type":"text_general","stored":true},
+    {"name":"category","type":"string","stored":true},
+    {"name":"brand","type":"string","stored":true},
+    {"name":"price","type":"pfloat","stored":true},
+    {"name":"rating","type":"pfloat","stored":true},
+    {"name":"in_stock","type":"boolean","stored":true},
+    {"name":"tags","type":"text_general","stored":true,"multiValued":true},
+    {"name":"date_added","type":"pdate","stored":true}
+  ]
+}

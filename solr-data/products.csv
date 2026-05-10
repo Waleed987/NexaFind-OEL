@@ -1,0 +1,201 @@
+id,name,description,category,brand,price,rating,in_stock,tags,date_added
+P001,Smart Wireless Bluetooth Headphones,Premium over-ear wireless headphones with active noise cancellation and 30-hour battery life,Electronics,SoundMax,22397.2,4.5,true,"bluetooth,headphones,wireless,audio,noise-cancelling",2025-01-15T00:00:00Z
+P002,Mechanical Gaming Keyboard Plus,RGB backlit mechanical keyboard with Cherry MX Blue switches and programmable macros,Electronics,KeyMaster,36397.2,4.7,true,"keyboard,gaming,mechanical,rgb,cherry-mx",2025-02-10T00:00:00Z
+P003,Ultra Slim Laptop Stand Series,Ergonomic aluminum laptop stand with adjustable height and ventilation design,Electronics,ErgoTech,11197.2,4.3,true,"laptop,stand,ergonomic,aluminum",2025-01-20T00:00:00Z
+P004,4K Ultra HD Webcam Plus,Professional 4K webcam with auto-focus and built-in ring light for streaming,Electronics,VisionPro,25197.2,4.6,true,"webcam,4k,streaming,video,camera",2025-03-05T00:00:00Z
+P005,Portable Bluetooth Speaker Edition,Waterproof portable speaker with 360-degree sound and 20-hour playtime,Electronics,SoundMax,13997.2,4.4,true,"speaker,bluetooth,portable,waterproof,audio",2025-02-28T00:00:00Z
+P006,USB-C Docking Station One,12-in-1 USB-C hub with dual HDMI triple display and 100W power delivery,Electronics,TechConnect,19597.2,4.2,true,"usb-c,hub,docking,hdmi,laptop",2025-04-12T00:00:00Z
+P007,Pro Wireless Gaming Mouse,High-precision wireless gaming mouse with 25600 DPI sensor and RGB lighting,Electronics,KeyMaster,16797.2,4.8,true,"mouse,gaming,wireless,rgb,precision",2025-01-08T00:00:00Z
+P008,Pro Noise Cancelling Earbuds,True wireless earbuds with hybrid ANC transparency mode and wireless charging case,Electronics,SoundMax,33597.2,4.5,false,"earbuds,wireless,anc,bluetooth,audio",2025-03-20T00:00:00Z
+P009,Smart Home Hub Max,Voice-controlled smart home hub with built-in display and Zigbee connectivity,Electronics,SmartLife,36397.2,4.1,true,"smart-home,hub,voice,zigbee,display",2025-05-01T00:00:00Z
+P010,Classic Curved Gaming Monitor 27 inch,27-inch curved QHD gaming monitor with 165Hz refresh rate and 1ms response time,Electronics,VisionPro,97997.2,4.7,true,"monitor,gaming,curved,qhd,165hz",2025-02-14T00:00:00Z
+P011,Portable Power Bank 20000mAh Elite,High-capacity portable charger with fast charging and dual USB-C ports,Electronics,TechConnect,9797.2,4.3,true,"power-bank,portable,charger,usb-c,fast-charging",2025-04-20T00:00:00Z
+P012,Smart Fitness Tracker Elite,Advanced fitness band with heart rate SpO2 monitoring and GPS tracking,Electronics,FitGear,22397.2,4.4,true,"fitness,tracker,heart-rate,gps,health",2025-01-25T00:00:00Z
+P013,Core Electric Standing Desk Mat,Anti-fatigue comfort mat for standing desks with massage points,Electronics,ErgoTech,12597.2,4.0,true,"desk,mat,standing,ergonomic,comfort",2025-06-10T00:00:00Z
+P014,Wireless Charging Pad X,Fast wireless charging pad compatible with Qi devices and LED indicator,Electronics,TechConnect,5597.2,4.2,true,"charger,wireless,qi,fast-charging",2025-03-15T00:00:00Z
+P015,Smart LED Light Strip Series,WiFi-enabled RGB LED strip with music sync and voice control 5 meters,Electronics,SmartLife,6997.2,4.3,true,"led,light,strip,rgb,smart-home,wifi",2025-07-01T00:00:00Z
+P016,Digital Drawing Tablet Edition,Professional drawing tablet with 8192 pressure levels and tilt support,Electronics,CreativePro,55997.2,4.6,true,"tablet,drawing,digital,art,pressure",2025-02-05T00:00:00Z
+P017,Pro USB Microphone Kit,Professional condenser USB microphone with boom arm pop filter and shock mount,Electronics,SoundMax,19597.2,4.5,true,"microphone,usb,condenser,streaming,podcast",2025-08-12T00:00:00Z
+P018,Nova Slim Fit Cotton T-Shirt,Classic slim fit crew neck t-shirt made from 100 percent organic cotton,Clothing,UrbanWear,6997.2,4.2,true,"tshirt,cotton,slim-fit,organic,casual",2025-01-10T00:00:00Z
+P019,Core Denim Jacket Classic Blue,Vintage-style classic blue denim jacket with brass button closure,Clothing,DenimCo,19597.2,4.5,true,"jacket,denim,blue,vintage,casual",2025-03-18T00:00:00Z
+P020,Performance Running Shoes One,Lightweight mesh running shoes with responsive cushioning and breathable design,Clothing,SportStep,27997.2,4.6,true,"shoes,running,lightweight,mesh,sport",2025-02-22T00:00:00Z
+P021,Stretch Chino Pants Elite,Modern slim-fit chino pants with stretch comfort fabric and wrinkle resistance,Clothing,UrbanWear,13997.2,4.3,true,"pants,chino,slim-fit,stretch,casual",2025-04-05T00:00:00Z
+P022,Elite Merino Wool Sweater,Premium merino wool crew neck sweater soft and temperature regulating,Clothing,NordicKnit,25197.2,4.7,true,"sweater,merino,wool,crew-neck,premium",2025-01-30T00:00:00Z
+P023,Aura Waterproof Hiking Boots,Durable waterproof hiking boots with ankle support and Vibram outsole,Clothing,TrailBlaze,39197.2,4.8,true,"boots,hiking,waterproof,outdoor,vibram",2025-05-15T00:00:00Z
+P024,UV Protection Sunglasses Plus,Polarized sunglasses with UV400 protection and titanium frame,Clothing,SunShield,16797.2,4.4,true,"sunglasses,polarized,uv,titanium",2025-06-20T00:00:00Z
+P025,Core Hooded Windbreaker Jacket,Lightweight packable windbreaker with hood and water-resistant finish,Clothing,SportStep,15397.2,4.2,true,"jacket,windbreaker,hooded,lightweight,water-resistant",2025-07-10T00:00:00Z
+P026,Athletic Compression Socks Max,High-performance compression socks for running and recovery 3 pack,Clothing,FitGear,5597.2,4.1,true,"socks,compression,athletic,running,recovery",2025-03-25T00:00:00Z
+P027,Leather Belt Classic Brown Max,Genuine leather belt with brushed nickel buckle and stitched edges,Clothing,UrbanWear,9797.2,4.3,true,"belt,leather,brown,classic,accessory",2025-08-01T00:00:00Z
+P028,Prime Thermal Base Layer Top,Moisture-wicking thermal base layer for cold weather activities,Clothing,TrailBlaze,12597.2,4.5,true,"base-layer,thermal,moisture-wicking,cold-weather",2025-09-05T00:00:00Z
+P029,Linen Summer Shirt X,Relaxed fit pure linen shirt perfect for summer with breathable fabric,Clothing,UrbanWear,11197.2,4.2,true,"shirt,linen,summer,breathable,relaxed",2025-06-15T00:00:00Z
+P030,Sport Jogger Pants X,Tapered jogger pants with zippered pockets and moisture management fabric,Clothing,SportStep,12597.2,4.4,true,"jogger,pants,sport,tapered,zippered",2025-04-18T00:00:00Z
+P031,Prime Canvas Backpack 25L,Durable canvas backpack with padded laptop compartment and multiple pockets,Clothing,TrailBlaze,18197.2,4.3,true,"backpack,canvas,laptop,durable,travel",2025-02-12T00:00:00Z
+P032,Stainless Steel Water Bottle Plus,Double-wall vacuum insulated water bottle keeps drinks cold 24 hours,Home & Kitchen,HomeEssentials,8397.2,4.6,true,"water-bottle,insulated,stainless-steel,vacuum",2025-01-05T00:00:00Z
+P033,Elite Non-Stick Cookware Set 10 Piece,Professional non-stick cookware set with tempered glass lids and stay-cool handles,Home & Kitchen,ChefPro,41997.2,4.5,true,"cookware,non-stick,kitchen,pots,pans",2025-03-10T00:00:00Z
+P034,Automatic Coffee Maker One,Programmable 12-cup coffee maker with built-in grinder and thermal carafe,Home & Kitchen,BrewMaster,25197.2,4.4,true,"coffee,maker,programmable,grinder,automatic",2025-02-18T00:00:00Z
+P035,Memory Foam Pillow Set Edition,Contour memory foam pillows with cooling gel layer and bamboo cover 2 pack,Home & Kitchen,DreamComfort,13997.2,4.3,true,"pillow,memory-foam,cooling,bamboo,sleep",2025-04-22T00:00:00Z
+P036,Cast Iron Skillet 12 inch Elite,Pre-seasoned 12-inch cast iron skillet for searing grilling and baking,Home & Kitchen,ChefPro,11197.2,4.8,true,"skillet,cast-iron,seasoned,cooking,versatile",2025-01-28T00:00:00Z
+P037,Ultra Electric Kettle Variable Temperature,Variable temperature electric kettle with gooseneck spout for pour-over coffee,Home & Kitchen,BrewMaster,15397.2,4.5,true,"kettle,electric,variable-temperature,gooseneck,pour-over",2025-05-08T00:00:00Z
+P038,Bamboo Cutting Board Set Series,Organic bamboo cutting board set with juice grooves 3 sizes,Home & Kitchen,HomeEssentials,6997.2,4.2,true,"cutting-board,bamboo,organic,kitchen",2025-06-30T00:00:00Z
+P039,Robot Vacuum Cleaner Elite,Smart robot vacuum with LiDAR navigation and self-emptying dustbin,Home & Kitchen,SmartLife,83997.2,4.6,true,"vacuum,robot,smart,lidar,self-emptying",2025-07-15T00:00:00Z
+P040,Nova Ceramic Dinner Set 16 Piece,Modern ceramic dinner set with plates bowls and mugs in matte finish,Home & Kitchen,HomeEssentials,22397.2,4.4,true,"dinner-set,ceramic,plates,bowls,matte",2025-03-28T00:00:00Z
+P041,Elite Air Purifier HEPA Filter,True HEPA air purifier for large rooms with air quality sensor,Home & Kitchen,SmartLife,50397.2,4.5,true,"air-purifier,hepa,filter,smart,clean-air",2025-08-20T00:00:00Z
+P042,Silicone Baking Mat Set Max,Non-stick silicone baking mats for cookies and pastries reusable 3 pack,Home & Kitchen,ChefPro,4197.2,4.3,true,"baking,mat,silicone,non-stick,reusable",2025-09-10T00:00:00Z
+P043,Classic French Press Coffee Maker,Double-wall stainless steel French press with 4-level filtration,Home & Kitchen,BrewMaster,9797.2,4.4,true,"french-press,coffee,stainless-steel,filtration",2025-02-08T00:00:00Z
+P044,Weighted Blanket 15 lbs Plus,Premium weighted blanket with glass beads and breathable cotton cover,Home & Kitchen,DreamComfort,19597.2,4.6,true,"blanket,weighted,glass-beads,cotton,sleep",2025-04-15T00:00:00Z
+P045,Aura Electric Hand Mixer,Lightweight electric hand mixer with 5 speeds and stainless steel beaters,Home & Kitchen,ChefPro,8397.2,4.2,true,"mixer,electric,hand,kitchen,baking",2025-05-22T00:00:00Z
+P046,Scented Candle Gift Set X,Luxury soy wax scented candles with natural essential oils 6 pack,Home & Kitchen,HomeEssentials,11197.2,4.5,true,"candle,scented,soy-wax,essential-oils,gift",2025-06-05T00:00:00Z
+P047,Adjustable Dumbbell Set Max,Space-saving adjustable dumbbells with quick-change weight system 5-52.5 lbs,Sports,IronForce,69997.2,4.7,true,"dumbbell,adjustable,weights,strength,home-gym",2025-01-12T00:00:00Z
+P048,Yoga Mat Premium Non-Slip Elite,Extra thick premium yoga mat with alignment lines and carrying strap,Sports,FlexFit,9797.2,4.5,true,"yoga,mat,non-slip,thick,alignment",2025-02-25T00:00:00Z
+P049,Resistance Band Set Elite,Professional resistance bands set with 5 levels door anchor and carrying bag,Sports,FlexFit,6997.2,4.4,true,"resistance-bands,exercise,strength,portable,fitness",2025-03-14T00:00:00Z
+P050,Classic Foam Roller Deep Tissue,High-density foam roller for muscle recovery and deep tissue massage,Sports,FlexFit,5597.2,4.3,true,"foam-roller,massage,recovery,muscle,fitness",2025-04-08T00:00:00Z
+P051,Zen Jump Rope Speed Cable,Adjustable speed cable jump rope with ball bearings and weighted handles,Sports,IronForce,4197.2,4.2,true,"jump-rope,speed,cable,cardio,fitness",2025-05-18T00:00:00Z
+P052,Cycling Helmet Aerodynamic Edition,Lightweight aerodynamic cycling helmet with MIPS protection and ventilation,Sports,TrailBlaze,22397.2,4.6,true,"helmet,cycling,aerodynamic,mips,safety",2025-06-22T00:00:00Z
+P053,Classic Pull Up Bar Doorway,Heavy-duty doorway pull-up bar with padded grips and multiple positions,Sports,IronForce,8397.2,4.3,true,"pull-up,bar,doorway,strength,exercise",2025-07-05T00:00:00Z
+P054,Classic Tennis Racket Professional,Professional graphite tennis racket with vibration dampening technology,Sports,ProCourt,41997.2,4.5,true,"tennis,racket,graphite,professional,sport",2025-08-15T00:00:00Z
+P055,Ab Roller Wheel Series,Core strengthening ab roller wheel with knee pad and non-slip grip,Sports,IronForce,5037.2,4.1,true,"ab-roller,core,exercise,strength,fitness",2025-09-02T00:00:00Z
+P056,Swimming Goggles Anti-Fog Series,Competition swimming goggles with anti-fog UV protection and adjustable strap,Sports,AquaPro,6437.2,4.4,true,"goggles,swimming,anti-fog,uv,competition",2025-01-18T00:00:00Z
+P057,Elite Kettlebell Cast Iron 35 lb,Solid cast iron kettlebell with powder coat finish and flat bottom,Sports,IronForce,12597.2,4.7,true,"kettlebell,cast-iron,strength,weight,exercise",2025-02-20T00:00:00Z
+P058,Nova Basketball Indoor Outdoor,Official size composite leather basketball for indoor and outdoor play,Sports,ProCourt,9797.2,4.3,true,"basketball,composite,indoor,outdoor,sport",2025-03-30T00:00:00Z
+P059,Zen Hiking Trekking Poles,Carbon fiber trekking poles with cork grips and quick-lock adjustment,Sports,TrailBlaze,16797.2,4.5,true,"trekking,poles,carbon-fiber,hiking,cork",2025-04-25T00:00:00Z
+P060,Smart Exercise Ball 65cm,Anti-burst exercise ball with hand pump for stability and core training,Sports,FlexFit,4757.2,4.2,true,"exercise-ball,stability,core,fitness,anti-burst",2025-05-30T00:00:00Z
+P061,Boxing Gloves Training v2,Premium leather boxing gloves with wrist support and multi-layer foam,Sports,IronForce,11197.2,4.4,true,"boxing,gloves,leather,training,combat",2025-06-12T00:00:00Z
+P062,Camping Tent 4 Person Series,Lightweight waterproof 4-person tent with easy setup and rain fly,Sports,TrailBlaze,36397.2,4.5,true,"tent,camping,waterproof,lightweight,outdoor",2025-07-20T00:00:00Z
+P063,Ultra The Art of Programming,Comprehensive guide to algorithms and data structures for modern developers,Books,TechPress,12597.2,4.8,true,"programming,algorithms,data-structures,coding,computer-science",2025-01-02T00:00:00Z
+P064,Machine Learning Fundamentals Series,Introduction to machine learning concepts with hands-on Python examples,Books,TechPress,11197.2,4.6,true,"machine-learning,python,ai,data-science,tutorial",2025-02-15T00:00:00Z
+P065,Cooking with Spices One,Explore world cuisines through the art of spice blending and flavor pairing,Books,CulinaryBooks,8397.2,4.4,true,"cooking,spices,cuisine,recipes,food",2025-03-08T00:00:00Z
+P066,Digital Photography Masterclass Plus,Complete guide to digital photography from basics to advanced techniques,Books,CreativePress,9797.2,4.5,true,"photography,digital,camera,techniques,art",2025-04-20T00:00:00Z
+P067,Zen Financial Freedom Blueprint,Practical guide to personal finance investing and building wealth,Books,WealthBooks,6997.2,4.3,true,"finance,investing,wealth,personal-finance,money",2025-05-12T00:00:00Z
+P068,Zen Cloud Architecture Patterns,Designing scalable and resilient cloud-native applications,Books,TechPress,13997.2,4.7,true,"cloud,architecture,scalable,devops,aws",2025-06-08T00:00:00Z
+P069,Zen Mindful Leadership,Transform your leadership style with mindfulness and emotional intelligence,Books,BusinessBooks,7837.2,4.2,true,"leadership,mindfulness,business,management,emotional-intelligence",2025-07-22T00:00:00Z
+P070,Smart Web Development with React,Build modern web applications with React hooks and Next.js framework,Books,TechPress,10637.2,4.6,true,"react,web-development,nextjs,javascript,frontend",2025-08-05T00:00:00Z
+P071,Prime Organic Gardening Guide,Complete guide to organic gardening composting and sustainable growing,Books,GreenBooks,6437.2,4.4,true,"gardening,organic,sustainable,composting,plants",2025-09-15T00:00:00Z
+P072,Pro History of Ancient Civilizations,Explore the rise and fall of ancient empires from Egypt to Rome,Books,HistoryPress,9237.2,4.5,true,"history,ancient,civilizations,egypt,rome",2025-01-22T00:00:00Z
+P073,Prime Data Engineering with Python,Building robust data pipelines and ETL workflows with Python,Books,TechPress,12037.2,4.5,true,"data-engineering,python,etl,pipelines,big-data",2025-02-28T00:00:00Z
+P074,Creative Writing Workshop Plus,Master the craft of storytelling with practical exercises and techniques,Books,CreativePress,5597.2,4.3,true,"writing,creative,storytelling,workshop,fiction",2025-03-18T00:00:00Z
+P075,Vitamin C Brightening Serum X,Concentrated vitamin C serum with hyaluronic acid for radiant skin,Beauty,GlowLab,8117.2,4.6,true,"serum,vitamin-c,brightening,skincare,hyaluronic",2025-01-08T00:00:00Z
+P076,Natural Hair Repair Shampoo Max,Sulfate-free repair shampoo with argan oil and keratin for damaged hair,Beauty,PureHair,4757.2,4.3,true,"shampoo,hair,repair,argan-oil,keratin",2025-02-12T00:00:00Z
+P077,Retinol Night Cream Series,Advanced retinol night cream with peptides for anti-aging and wrinkle reduction,Beauty,GlowLab,11197.2,4.5,true,"retinol,night-cream,anti-aging,peptides,skincare",2025-03-22T00:00:00Z
+P078,Smart SPF 50 Daily Moisturizer,Lightweight daily moisturizer with broad spectrum SPF 50 sun protection,Beauty,SunShield,6997.2,4.4,true,"moisturizer,spf,sunscreen,daily,skincare",2025-04-10T00:00:00Z
+P079,Organic Lip Balm Set Series,Natural organic lip balm set with beeswax shea butter 4 flavors,Beauty,PureHair,3637.2,4.2,true,"lip-balm,organic,beeswax,shea-butter,natural",2025-05-05T00:00:00Z
+P080,Charcoal Face Mask Elite,Deep cleansing activated charcoal face mask for pore minimizing,Beauty,GlowLab,5317.2,4.3,true,"face-mask,charcoal,cleansing,pore,skincare",2025-06-18T00:00:00Z
+P081,Hair Styling Clay Matte X,Professional matte finish hair styling clay with strong hold,Beauty,PureHair,4197.2,4.1,true,"hair,styling,clay,matte,grooming",2025-07-08T00:00:00Z
+P082,Rose Water Facial Toner Series,Organic rose water toner for hydrating and balancing skin pH,Beauty,GlowLab,4477.2,4.4,true,"toner,rose-water,organic,hydrating,skincare",2025-08-25T00:00:00Z
+P083,Core Coconut Oil Body Butter,Rich coconut oil body butter with vitamin E for deep moisturizing,Beauty,PureHair,6157.2,4.5,true,"body-butter,coconut,vitamin-e,moisturizing,skin",2025-09-12T00:00:00Z
+P084,Electric Toothbrush Sonic Series,Rechargeable sonic electric toothbrush with 5 modes and smart timer,Beauty,SmartLife,13997.2,4.6,true,"toothbrush,electric,sonic,rechargeable,dental",2025-01-15T00:00:00Z
+P085,Tea Tree Acne Treatment Plus,Concentrated tea tree oil acne spot treatment with salicylic acid,Beauty,GlowLab,3917.2,4.2,true,"acne,tea-tree,treatment,salicylic-acid,skincare",2025-02-20T00:00:00Z
+P086,Prime Nail Care Kit Professional,Complete professional nail care kit with manicure and pedicure tools,Beauty,PureHair,7837.2,4.3,true,"nail-care,manicure,pedicure,tools,grooming",2025-03-28T00:00:00Z
+P087,Pro Smart Watch Pro,Advanced smartwatch with ECG blood pressure and always-on AMOLED display,Electronics,FitGear,55997.2,4.7,true,"smartwatch,ecg,blood-pressure,amoled,health",2025-04-02T00:00:00Z
+P088,Wireless Keyboard and Mouse Combo Elite,Slim wireless keyboard and mouse combo with quiet keys and long battery life,Electronics,KeyMaster,12597.2,4.3,true,"keyboard,mouse,wireless,combo,slim",2025-05-14T00:00:00Z
+P089,Fleece Zip-Up Hoodie Max,Soft fleece full zip hoodie with kangaroo pocket and ribbed cuffs,Clothing,UrbanWear,15397.2,4.4,true,"hoodie,fleece,zip-up,casual,warm",2025-06-25T00:00:00Z
+P090,Professional Chef Knife 8 inch Edition,German steel 8-inch chef knife with ergonomic handle and full tang,Home & Kitchen,ChefPro,16797.2,4.8,true,"knife,chef,german-steel,kitchen,sharp",2025-07-30T00:00:00Z
+P091,Nova Resistance Loop Bands Set,Fabric resistance loop bands set for glutes and legs 5 levels,Sports,FlexFit,5317.2,4.3,true,"resistance,bands,loop,fabric,glutes",2025-08-10T00:00:00Z
+P092,Smart Cybersecurity Essentials,Practical guide to cybersecurity threat detection and network defense,Books,TechPress,10357.2,4.5,true,"cybersecurity,network,security,hacking,defense",2025-09-20T00:00:00Z
+P093,Hyaluronic Acid Serum v2,Pure hyaluronic acid serum for intense hydration and plumping effect,Beauty,GlowLab,6437.2,4.6,true,"hyaluronic-acid,serum,hydration,plumping,skincare",2025-01-28T00:00:00Z
+P094,Smart Portable SSD 1TB,Compact portable solid state drive with USB 3.2 and encryption,Electronics,TechConnect,25197.2,4.5,true,"ssd,portable,storage,usb,encryption",2025-02-14T00:00:00Z
+P095,Wool Beanie Winter Hat Series,Chunky knit merino wool beanie with fleece lining for warmth,Clothing,NordicKnit,6997.2,4.3,true,"beanie,wool,winter,knit,warm",2025-03-05T00:00:00Z
+P096,Pro Immersion Blender Handheld,Powerful handheld immersion blender with variable speed and whisk attachment,Home & Kitchen,ChefPro,9797.2,4.4,true,"blender,immersion,handheld,kitchen,variable-speed",2025-04-28T00:00:00Z
+P097,Climbing Chalk Bag Max,Drawstring climbing chalk bag with waist belt and zippered pocket,Sports,TrailBlaze,4757.2,4.2,true,"climbing,chalk,bag,bouldering,outdoor",2025-05-10T00:00:00Z
+P098,Blockchain Development Guide Edition,Learn blockchain development smart contracts and decentralized applications,Books,TechPress,11757.2,4.4,true,"blockchain,smart-contracts,dapps,ethereum,web3",2025-06-15T00:00:00Z
+P099,Collagen Face Moisturizer Series,Marine collagen moisturizer with niacinamide for firmness and glow,Beauty,GlowLab,8957.2,4.5,true,"collagen,moisturizer,niacinamide,firmness,skincare",2025-07-02T00:00:00Z
+P100,Zen Noise Cancelling Travel Headphones,Foldable travel headphones with adaptive noise cancelling and quick charge,Electronics,SoundMax,41997.2,4.6,true,"headphones,travel,noise-cancelling,foldable,portable",2025-08-18T00:00:00Z
+P101,Classic Personal Smoothie Blender,High-speed personal blender with travel lid for healthy on-the-go drinks,Home & Kitchen,BrewMaster,33479.6,4.1,true,"blender,smoothie,home,personal,kitchen",2025-07-06T00:00:00Z
+P102,Smart The Craft of Woodworking,Essential techniques and projects for the modern woodworker,Books,GreenBooks,12376.0,4.3,true,"woodworking,craft,books,the",2025-06-23T00:00:00Z
+P103,Aura The Psychology of Success,Understanding the mindset habits and traits of high achievers,Books,GreenBooks,28750.4,4.1,true,"psychology,success,books,the",2025-08-16T00:00:00Z
+P104,Pro USB-C to HDMI Adapter,Reliable 4K 60Hz video output adapter for laptops and tablets,Electronics,SmartLife,47093.2,4.6,false,"hdmi,adapter,electronics,usb-c",2025-08-13T00:00:00Z
+P105,Travel Photography Tips Edition,How to capture stunning images of your world adventures,Books,GreenBooks,114758.0,4.2,true,"books,photography,travel,tips",2025-07-05T00:00:00Z
+P106,Smart USB-C to HDMI Adapter Pro,Reliable 4K 60Hz video output adapter for laptops and tablets,Electronics,KeyMaster,49907.2,4.9,false,"hdmi,pro,usb-c,adapter,electronics",2025-08-28T00:00:00Z
+P107,Argan Oil Hair Mask One,Deep conditioning treatment with argan oil for silky smooth hair,Beauty,SunShield,41588.4,4.4,true,"beauty,mask,oil,argan,hair",2025-01-02T00:00:00Z
+P108,Boxing Speed Bag One,High-grade leather speed bag for developing hand-eye coordination,Sports,FlexFit,105128.8,4.4,true,"boxing,sports,speed,bag",2025-08-13T00:00:00Z
+P109,Smart Magnetic Knife Strip,Space-saving stainless steel magnetic bar for organizing kitchen knives,Home & Kitchen,BrewMaster,33530.0,4.2,false,"home,strip,kitchen,magnetic,knife",2025-02-05T00:00:00Z
+P110,Mandoline Slicer X,Professional vegetable slicer with adjustable blades and safety guard,Home & Kitchen,SmartLife,68096.0,4.5,false,"mandoline,home,slicer,kitchen",2025-09-28T00:00:00Z
+P111,Distressed Skinny Jeans v2,Stylish skinny fit jeans with authentic distressing and stretch comfort,Clothing,SportStep,34739.6,4.0,true,"jeans,clothing,skinny,distressed",2025-04-27T00:00:00Z
+P112,Nova Jade Roller and Gua Sha,Natural jade facial massage set for reducing puffiness and tension,Beauty,SmartLife,59953.6,4.0,true,"beauty,jade,and,sha,roller",2025-10-03T00:00:00Z
+P113,Prime Wool Blend Overcoat,Elegant wool blend overcoat with tailored fit for formal occasions,Clothing,DenimCo,54286.4,4.7,true,"wool,clothing,overcoat,blend",2025-06-04T00:00:00Z
+P114,Resistance Band Bar X,Portable workout bar for use with resistance bands for full body training,Sports,TrailBlaze,81863.6,4.3,true,"resistance,band,sports,bar",2025-05-24T00:00:00Z
+P115,Prime Vertical Ergonomic Mouse,Unique vertical design mouse to reduce wrist strain and improve productivity,Electronics,SmartLife,88435.2,4.5,true,"mouse,vertical,ergonomic,electronics",2025-09-10T00:00:00Z
+P116,Prime Breathable Mesh Cap,Adjustable 6-panel athletic cap with moisture-wicking headband,Clothing,NordicKnit,64568.0,4.8,true,"breathable,clothing,mesh,cap",2025-03-06T00:00:00Z
+P117,Aura Seamless Workout Leggings,High-waisted compression leggings with moisture-wicking fabric for gym sessions,Clothing,DenimCo,22540.0,4.1,true,"seamless,leggings,clothing,workout",2025-04-23T00:00:00Z
+P118,Pro Solar Power Bank,Outdoor solar charger with 15000mAh capacity and dual USB ports,Electronics,TechConnect,117238.8,4.2,true,"bank,solar,power,electronics",2025-04-16T00:00:00Z
+P119,Classic Tiered Spice Rack,Expandable bamboo spice organizer for cabinet or countertop use,Home & Kitchen,HomeEssentials,57657.6,4.0,true,"rack,home,kitchen,tiered,spice",2025-05-09T00:00:00Z
+P120,Breathable Mesh Cap Pro One,Adjustable 6-panel athletic cap with moisture-wicking headband,Clothing,NordicKnit,101858.4,4.1,true,"cap,clothing,pro,mesh,breathable",2025-01-16T00:00:00Z
+P121,Portable Mini Projector Edition,Pocket-sized DLP projector with built-in battery and HDMI input,Electronics,ErgoTech,37606.8,4.8,true,"projector,portable,electronics,mini",2025-01-09T00:00:00Z
+P122,Corduroy Button-Down One,Soft fine-wale corduroy shirt with button-down collar and chest pocket,Clothing,SportStep,104941.2,4.9,true,"clothing,button-down,corduroy",2025-10-09T00:00:00Z
+P123,Portable Soccer Goal Max,Pop-up soccer goal with stakes and carrying bag for backyard practice,Sports,FlexFit,59399.2,4.2,false,"sports,goal,portable,soccer",2025-03-19T00:00:00Z
+P124,Glass Meal Prep Containers X,Set of 5 airtight glass containers with snap-lock lids for food storage,Home & Kitchen,DreamComfort,100744.0,4.8,true,"glass,home,meal,kitchen,prep",2025-06-29T00:00:00Z
+P125,Baking Artisan Bread Edition,Master the art of sourdough and crusty loaves at home,Books,GreenBooks,68770.8,4.8,false,"artisan,bread,baking,books",2025-07-04T00:00:00Z
+P126,Classic Travel Photography Tips Pro,How to capture stunning images of your world adventures,Books,CreativePress,87903.2,4.9,true,"travel,pro,books,photography,tips",2025-02-25T00:00:00Z
+P127,Core Lightweight Puffer Vest,Insulated water-resistant puffer vest perfect for layering in cool weather,Clothing,DenimCo,79013.2,4.7,true,"puffer,clothing,lightweight,vest",2025-03-10T00:00:00Z
+P128,Lightweight Puffer Vest Pro Series,Insulated water-resistant puffer vest perfect for layering in cool weather,Clothing,TrailBlaze,26272.4,4.3,true,"clothing,pro,vest,puffer,lightweight",2025-08-04T00:00:00Z
+P129,Packable Rain Jacket Max,Ultra-lightweight waterproof rain jacket that folds into its own pocket,Clothing,TrailBlaze,6795.6,3.8,false,"packable,jacket,rain,clothing",2025-06-29T00:00:00Z
+P130,Nova Wool Blend Overcoat Pro,Elegant wool blend overcoat with tailored fit for formal occasions,Clothing,TrailBlaze,92730.4,4.8,true,"clothing,pro,overcoat,blend,wool",2025-05-05T00:00:00Z
+P131,Core Hydrating Face Mist,Refreshing mist with aloe vera and cucumber for instant hydration,Beauty,GlowLab,97848.8,3.9,true,"face,beauty,mist,hydrating",2025-05-06T00:00:00Z
+P132,Prime Wall-Mounted Key Holder,Rustic wooden key organizer with mail slot and decorative hooks,Home & Kitchen,ChefPro,5882.8,4.9,false,"key,home,holder,kitchen,wall-mounted",2025-07-18T00:00:00Z
+P133,Solar Power Bank Pro v2,Outdoor solar charger with 15000mAh capacity and dual USB ports,Electronics,SmartLife,2844.8,4.3,true,"bank,solar,power,pro,electronics",2025-05-07T00:00:00Z
+P134,Reusable Produce Bags Max,Set of 9 mesh produce bags for eco-friendly grocery shopping,Home & Kitchen,DreamComfort,44436.0,4.3,true,"home,produce,reusable,bags,kitchen",2025-06-25T00:00:00Z
+P135,Mindful Meditation Guide Plus,Simple techniques for daily mindfulness and stress reduction,Books,HistoryPress,33213.6,4.1,true,"books,guide,meditation,mindful",2025-08-24T00:00:00Z
+P136,Elite Boxing Speed Bag Pro,High-grade leather speed bag for developing hand-eye coordination,Sports,TrailBlaze,20328.0,4.7,true,"sports,pro,bag,boxing,speed",2025-07-11T00:00:00Z
+P137,Pro Canvas Slip-On Shoes,Comfortable everyday canvas slip-ons with cushioned insoles and rubber outsoles,Clothing,SportStep,126523.6,4.3,true,"slip-on,clothing,canvas,shoes",2025-03-31T00:00:00Z
+P138,Mindful Meditation Guide Pro Elite,Simple techniques for daily mindfulness and stress reduction,Books,GreenBooks,134475.6,4.0,true,"guide,pro,books,meditation,mindful",2025-02-22T00:00:00Z
+P139,Badminton Racket Set v2,Lightweight aluminum badminton rackets with shuttlecocks and net,Sports,FlexFit,14655.2,5.0,true,"set,racket,badminton,sports",2025-09-16T00:00:00Z
+P140,Antistatic Cleaning Kit X,Professional cleaning solution for screens lenses and electronic components,Electronics,VisionPro,97372.8,4.2,false,"kit,cleaning,antistatic,electronics",2025-02-17T00:00:00Z
+P141,Nova Noise Isolating Headphones,High-fidelity headphones with ergonomic design and deep bass response,Electronics,SmartLife,66122.0,4.9,true,"electronics,noise,isolating,headphones",2025-01-30T00:00:00Z
+P142,Graphic Print Hoodie Max,Streetwear style hoodie with unique graphic print and soft fleece interior,Clothing,DenimCo,4874.8,4.7,true,"print,clothing,graphic,hoodie",2025-08-03T00:00:00Z
+P143,Classic Technical Training Shorts,Quick-dry athletic shorts with built-in liner and zippered phone pocket,Clothing,SportStep,124672.8,3.8,true,"clothing,shorts,training,technical",2025-07-16T00:00:00Z
+P144,USB-C to HDMI Adapter Pro Edition,Reliable 4K 60Hz video output adapter for laptops and tablets,Electronics,KeyMaster,77621.6,3.9,true,"hdmi,pro,usb-c,adapter,electronics",2025-08-02T00:00:00Z
+P145,Zen Electric Milk Frother,Create creamy foam for lattes and cappuccinos in seconds with one touch,Home & Kitchen,SmartLife,118140.4,4.2,true,"electric,home,milk,kitchen,frother",2025-07-20T00:00:00Z
+P146,Elite Volumizing Fiber Mascara,Instant length and volume with fiber-infused black mascara,Beauty,PureHair,128139.2,4.8,true,"fiber,volumizing,beauty,mascara",2025-01-01T00:00:00Z
+P147,Modern Interior Design Max,Beautifully illustrated guide to contemporary home styling and decor,Books,CreativePress,79259.6,4.8,true,"books,interior,design,modern",2025-01-16T00:00:00Z
+P148,Yoga Block and Strap Set One,High-density foam blocks and cotton strap to deepen your yoga poses,Sports,TrailBlaze,77417.2,4.7,false,"strap,sports,and,block,set",2025-09-09T00:00:00Z
+P149,Zen Noise Isolating Headphones Pro,High-fidelity headphones with ergonomic design and deep bass response,Electronics,VisionPro,61684.0,4.5,true,"noise,isolating,pro,headphones,electronics",2025-02-18T00:00:00Z
+P150,Diving Mask and Snorkel Edition,Tempered glass diving mask with dry-top snorkel for underwater exploration,Sports,IronForce,82958.4,4.9,true,"mask,snorkel,sports,diving,and",2025-10-01T00:00:00Z
+P151,Detoxifying Clay Mask Series,Bentonite and kaolin clay mask for deep pore cleansing,Beauty,SunShield,89012.0,4.0,false,"beauty,mask,detoxifying,clay",2025-03-03T00:00:00Z
+P152,Hydration Bladder 2L Plus,Leak-proof water reservoir for hiking backpacks with insulated tube,Sports,FlexFit,135881.2,4.8,true,"hydration,bladder,sports",2025-01-23T00:00:00Z
+P153,Smart Doorbell Camera Plus,1080p HD video doorbell with two-way talk and motion detection alerts,Electronics,SoundMax,126103.6,4.4,true,"smart,camera,electronics,doorbell",2025-10-27T00:00:00Z
+P154,Corduroy Button-Down Pro One,Soft fine-wale corduroy shirt with button-down collar and chest pocket,Clothing,DenimCo,74141.2,4.2,false,"clothing,pro,button-down,corduroy",2025-06-12T00:00:00Z
+P155,USB-C to HDMI Adapter Pro Elite,Reliable 4K 60Hz video output adapter for laptops and tablets,Electronics,SmartLife,96838.0,4.6,true,"hdmi,pro,usb-c,adapter,electronics",2025-09-27T00:00:00Z
+P156,Electric Milk Frother Pro X,Create creamy foam for lattes and cappuccinos in seconds with one touch,Home & Kitchen,HomeEssentials,88426.8,4.4,false,"electric,home,pro,milk,kitchen",2025-06-17T00:00:00Z
+P157,Graphic Print Hoodie Pro Max,Streetwear style hoodie with unique graphic print and soft fleece interior,Clothing,UrbanWear,10780.0,3.8,true,"clothing,hoodie,pro,graphic,print",2025-05-05T00:00:00Z
+P158,Memory Foam Bath Mat X,Ultra-absorbent bath rug with non-slip backing and luxurious feel,Home & Kitchen,ChefPro,94556.0,4.8,false,"memory,home,bath,foam,kitchen",2025-08-21T00:00:00Z
+P159,Aura Leather Chelsea Boots,Classic genuine leather Chelsea boots with elastic side panels and pull tabs,Clothing,UrbanWear,136368.4,4.1,false,"leather,clothing,chelsea,boots",2025-07-22T00:00:00Z
+P160,Pro Ankle Weights Set,Adjustable ankle weights for adding resistance to walking and workouts,Sports,ProCourt,20288.8,4.5,true,"set,ankle,weights,sports",2025-04-10T00:00:00Z
+P161,Smart Pet Feeder Max,Automatic pet feeder with smartphone control and camera monitoring,Electronics,TechConnect,106148.0,4.3,false,"feeder,smart,pet,electronics",2025-06-23T00:00:00Z
+P162,Elite Oversized Graphic Tee,Relaxed fit cotton t-shirt with vintage-inspired graphic artwork,Clothing,NordicKnit,107774.8,4.2,true,"graphic,tee,clothing,oversized",2025-06-22T00:00:00Z
+P163,Wi-Fi Range Extender Plus,Boost your wireless network coverage with high-speed AC1200 technology,Electronics,TechConnect,8702.4,4.2,true,"extender,wi-fi,range,electronics",2025-06-24T00:00:00Z
+P164,UV LED Nail Lamp Max,Professional nail dryer for curing gel polish quickly and evenly,Beauty,SunShield,71422.4,4.1,true,"beauty,lamp,led,nail",2025-10-22T00:00:00Z
+P165,Quilted Flannel Jacket Series,Rugged flannel shirt jacket with quilted lining for extra warmth,Clothing,UrbanWear,18942.0,4.1,true,"jacket,quilted,flannel,clothing",2025-06-16T00:00:00Z
+P166,Volumizing Fiber Mascara Pro Plus,Instant length and volume with fiber-infused black mascara,Beauty,SunShield,8024.8,4.3,true,"fiber,beauty,volumizing,mascara,pro",2025-06-23T00:00:00Z
+P167,Wall-Mounted Key Holder Pro Edition,Rustic wooden key organizer with mail slot and decorative hooks,Home & Kitchen,BrewMaster,76123.6,4.9,true,"key,home,pro,holder,kitchen",2025-10-19T00:00:00Z
+P168,Quilted Flannel Jacket Pro Max,Rugged flannel shirt jacket with quilted lining for extra warmth,Clothing,TrailBlaze,29170.4,4.5,true,"quilted,flannel,clothing,jacket,pro",2025-09-15T00:00:00Z
+P169,Magnetic Knife Strip Pro Max,Space-saving stainless steel magnetic bar for organizing kitchen knives,Home & Kitchen,ChefPro,113789.2,4.1,true,"home,pro,strip,kitchen,magnetic",2025-06-11T00:00:00Z
+P170,Turkish Cotton Towels Plus,Set of 2 oversized premium Turkish cotton bath towels soft and absorbent,Home & Kitchen,BrewMaster,37830.8,4.3,true,"cotton,home,turkish,towels,kitchen",2025-10-28T00:00:00Z
+P171,Introduction to Astronomy Elite,Explore the night sky with star charts and planetary guides,Books,BusinessBooks,42991.2,4.3,false,"introduction,books,astronomy",2025-10-03T00:00:00Z
+P172,Antistatic Cleaning Kit Pro Max,Professional cleaning solution for screens lenses and electronic components,Electronics,CreativePro,71369.2,4.0,true,"kit,cleaning,antistatic,pro,electronics",2025-08-04T00:00:00Z
+P173,Silk Pillowcase for Hair Plus,Premium 100 percent mulberry silk pillowcase to prevent hair breakage,Beauty,SunShield,111630.4,4.9,false,"beauty,pillowcase,for,silk,hair",2025-05-12T00:00:00Z
+P174,The Art of Minimalism Plus,Practical advice for decluttering your life and finding focus,Books,TechPress,50976.8,4.6,true,"art,books,minimalism,the",2025-04-20T00:00:00Z
+P175,Badminton Racket Set Pro Max,Lightweight aluminum badminton rackets with shuttlecocks and net,Sports,FlexFit,7739.2,4.2,true,"badminton,sports,pro,set,racket",2025-06-06T00:00:00Z
+P176,Pro Detoxifying Clay Mask Pro,Bentonite and kaolin clay mask for deep pore cleansing,Beauty,GlowLab,96160.4,4.2,true,"beauty,mask,clay,pro,detoxifying",2025-04-17T00:00:00Z
+P177,Core Striped Cotton Polo,Timeless striped polo shirt made from breathable piqué cotton,Clothing,SportStep,7266.0,3.9,true,"polo,striped,clothing,cotton",2025-07-02T00:00:00Z
+P178,Cargo Jogger Pants Plus,Modern cargo style joggers with multiple pockets and elasticized cuffs,Clothing,TrailBlaze,62286.0,3.9,false,"pants,clothing,jogger,cargo",2025-04-29T00:00:00Z
+P179,Smart Wall-Mounted Key Holder Pro,Rustic wooden key organizer with mail slot and decorative hooks,Home & Kitchen,SmartLife,135553.6,4.0,true,"key,home,pro,holder,kitchen",2025-03-14T00:00:00Z
+P180,Core Badminton Racket Set Pro,Lightweight aluminum badminton rackets with shuttlecocks and net,Sports,TrailBlaze,105235.2,3.9,true,"badminton,sports,pro,set,racket",2025-04-28T00:00:00Z
+P181,Ultra Trackball Mouse,Wireless trackball mouse for precise control without moving your arm,Electronics,KeyMaster,8251.6,4.5,true,"trackball,mouse,electronics",2025-03-04T00:00:00Z
+P182,The History of Jazz X,An in-depth look at the evolution of jazz music and its cultural impact,Books,CulinaryBooks,48557.6,4.9,true,"books,history,jazz,the",2025-08-30T00:00:00Z
+P183,Classic Knitted Beanie and Scarf,Matching winter accessory set made from soft insulating yarn,Clothing,DenimCo,97582.8,4.5,false,"knitted,clothing,and,scarf,beanie",2025-03-26T00:00:00Z
+P184,The History of Jazz Pro Elite,An in-depth look at the evolution of jazz music and its cultural impact,Books,GreenBooks,128962.4,4.2,true,"history,the,pro,books,jazz",2025-06-15T00:00:00Z
+P185,Classic Antistatic Cleaning Kit Pro,Professional cleaning solution for screens lenses and electronic components,Electronics,ErgoTech,18692.8,4.0,true,"kit,cleaning,antistatic,pro,electronics",2025-04-06T00:00:00Z
+P186,Zen Productivity Hacks 101,Practical strategies for managing time and getting more done,Books,BusinessBooks,56400.4,4.0,false,"101,hacks,productivity,books",2025-07-10T00:00:00Z
+P187,Magnetic Exercise Bike Series,Compact stationary bike with adjustable magnetic resistance and pulse monitor,Sports,IronForce,37231.6,4.4,true,"bike,magnetic,exercise,sports",2025-09-30T00:00:00Z
+P188,Smart Doorbell Camera Pro X,1080p HD video doorbell with two-way talk and motion detection alerts,Electronics,SoundMax,65842.0,4.6,true,"doorbell,camera,pro,smart,electronics",2025-03-01T00:00:00Z
+P189,Ultra Matte Liquid Lipstick,Highly pigmented matte lipstick with velvet finish and 12-hour wear,Beauty,SunShield,35520.8,3.9,true,"lipstick,beauty,matte,liquid",2025-10-08T00:00:00Z
+P190,Hydration Bladder 2L Pro X,Leak-proof water reservoir for hiking backpacks with insulated tube,Sports,AquaPro,6963.6,3.8,true,"hydration,bladder,pro,sports",2025-01-15T00:00:00Z
+P191,Core Handheld Clothes Steamer,Portable garment steamer for removing wrinkles from clothes and curtains,Home & Kitchen,BrewMaster,45155.6,4.8,true,"home,clothes,steamer,handheld,kitchen",2025-09-23T00:00:00Z
+P192,Liquid Eyeliner Waterproof Series,Precision felt-tip liquid eyeliner with long-wearing waterproof formula,Beauty,PureHair,65268.0,4.1,false,"beauty,liquid,waterproof,eyeliner",2025-02-19T00:00:00Z
+P193,Silk Pillowcase for Hair Pro One,Premium 100 percent mulberry silk pillowcase to prevent hair breakage,Beauty,SunShield,62140.4,4.7,false,"beauty,pillowcase,pro,for,silk",2025-04-04T00:00:00Z
+P194,Classic USB-C to HDMI Adapter Pro,Reliable 4K 60Hz video output adapter for laptops and tablets,Electronics,FitGear,115654.0,3.8,true,"hdmi,pro,usb-c,adapter,electronics",2025-01-29T00:00:00Z
+P195,Cargo Jogger Pants Pro One,Modern cargo style joggers with multiple pockets and elasticized cuffs,Clothing,NordicKnit,5191.2,4.6,true,"clothing,pants,pro,jogger,cargo",2025-08-08T00:00:00Z
+P196,Ultra Turkish Cotton Towels Pro,Set of 2 oversized premium Turkish cotton bath towels soft and absorbent,Home & Kitchen,HomeEssentials,63162.4,4.4,true,"cotton,home,pro,turkish,towels",2025-04-11T00:00:00Z
+P197,Elite Badminton Racket Set Pro,Lightweight aluminum badminton rackets with shuttlecocks and net,Sports,FlexFit,89838.0,4.2,true,"badminton,sports,pro,set,racket",2025-05-08T00:00:00Z
+P198,Prime Silk Pillowcase for Hair Pro,Premium 100 percent mulberry silk pillowcase to prevent hair breakage,Beauty,SunShield,89952.8,4.8,false,"beauty,pillowcase,pro,for,silk",2025-10-20T00:00:00Z
+P199,Smart Vegan Comfort Classics,Over 100 plant-based recipes for hearty and satisfying meals,Books,CulinaryBooks,59869.6,4.4,true,"books,classics,comfort,vegan",2025-09-18T00:00:00Z
+P200,Digital Food Scale X,High-precision kitchen scale with tare function and large LCD display,Home & Kitchen,ChefPro,53261.6,3.9,false,"food,home,digital,scale,kitchen",2025-03-25T00:00:00Z
